@@ -12,6 +12,8 @@ https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 ### Using spec-driven development with Claude Code
 https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29
+### Chapter 16: Spec-Driven Development with Claude Code
+https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development
 
 ## Courses
 ### Spec-Driven Development with Coding Agents
