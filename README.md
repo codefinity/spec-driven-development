@@ -4,6 +4,9 @@
 ### Spec-driven development
 https://thoughtworks.medium.com/spec-driven-development-d85995a81387
 
+### Spec-driven development with AI: Get started with a new open source toolkit
+https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/
+
 ## In-Depth
 ### Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
