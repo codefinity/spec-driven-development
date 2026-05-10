@@ -16,6 +16,8 @@ https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d
 https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development
 ### Structured-Prompt-Driven Development (SPDD)
 https://martinfowler.com/articles/structured-prompt-driven/
+## Claude Code for Spec-Driven Development: Capabilities and Limits
+https://www.augmentcode.com/guides/claude-code-spec-driven-development
 
 ## 3. Courses
 ### Spec-Driven Development with Coding Agents
