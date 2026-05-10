@@ -1,60 +1,103 @@
-# Learning - Spec Driven Development
+# 📋 Spec-Driven Development Learning Hub
 
-## 1. Introduction
-### Spec-driven development
-https://thoughtworks.medium.com/spec-driven-development-d85995a81387
+> A curated collection of resources for mastering Spec-Driven Development (SDD) and building better software with specifications and AI-powered tools.
 
-### Spec-driven development with AI: Get started with a new open source toolkit
-https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/
+---
 
-## 2. In-Depth
-### Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
-https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
-### Using spec-driven development with Claude Code
-https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29
-### Chapter 16: Spec-Driven Development with Claude Code
-https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development
-### Structured-Prompt-Driven Development (SPDD)
-https://martinfowler.com/articles/structured-prompt-driven/
-### Claude Code for Spec-Driven Development: Capabilities and Limits
-https://www.augmentcode.com/guides/claude-code-spec-driven-development
-### Spec Driven Development with Claude Code: Reduce Approval Overhead & Context Switching with Sub-Agents
-https://www.augmentcode.com/guides/claude-code-spec-driven-development
+## 📚 Table of Contents
 
-## 3. Courses
-### Spec-Driven Development with Coding Agents
-https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents
+- [🚀 Introduction](#-introduction)
+- [🔍 In-Depth Resources](#-in-depth-resources)
+- [🎓 Courses](#-courses)
+- [🛠️ Tools & Frameworks](#️-tools--frameworks)
+- [💡 Related Concepts](#-related-concepts)
+- [💻 GitHub Repos](#-github-repos)
+- [💬 Community Discussions](#-community-discussions)
+- [➕ Extra Resources](#-extra-resources)
 
-## 4. Tools/Frameworks
+---
 
-### Tessl
-https://docs.tessl.io/
-### KIRO
-https://kiro.dev/
-### spec-kit
-https://github.com/github/spec-kit
-### Diving Into Spec-Driven Development With GitHub Spec Kit
-https://developer.microsoft.com/blog/spec-driven-development-spec-kit
+## 🚀 Introduction
 
-## 5. Related Concepts
+Get started with the fundamentals of Spec-Driven Development:
 
-### Bitter lesson
-https://en.wikipedia.org/wiki/Bitter_lesson
-### Abstraction first
-https://martinfowler.com/articles/structured-prompt-driven/abstraction-first.html
+- **[Spec-driven development](https://thoughtworks.medium.com/spec-driven-development-d85995a81387)** - ThoughtWorks Medium
+- **[Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)** - GitHub Blog
 
-## 6. Github Repos
+---
 
-### open-spdd
-https://github.com/gszhangwei/open-spdd/tree/v0.4.9
-### token-billing
-https://github.com/gszhangwei/token-billing
+## 🔍 In-Depth Resources
 
-## 7. Discussions
-https://news.ycombinator.com/item?id=45935763
-https://www.reddit.com/r/ClaudeCode/comments/1rg0b9i/has_anyone_tried_the_spec_driven_development/
+Deep dive into advanced concepts and techniques:
 
-## 8. Extra
-### A Practical Guide to Spec-Driven Development
-https://docs.zencoder.ai/user-guides/tutorials/spec-driven-development-guide#spec-driven-implementation
+- **[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)** - Martin Fowler
+- **[Using spec-driven development with Claude Code](https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29)** - Heeki Medium
+- **[Chapter 16: Spec-Driven Development with Claude Code](https://agentfactory.panaversity.org/docs/General-Agents-Foundations/spec-driven-development)** - Panaversity
+- **[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)** - Martin Fowler
+- **[Claude Code for Spec-Driven Development: Capabilities and Limits](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
+- **[Spec Driven Development with Claude Code: Reduce Approval Overhead & Context Switching with Sub-Agents](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
+
+---
+
+## 🎓 Courses
+
+Structured learning paths for hands-on practice:
+
+- 📖 **[Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents)** - DeepLearning.AI
+
+---
+
+## 🛠️ Tools & Frameworks
+
+Essential tools and frameworks for implementing SDD:
+
+- **[Tessl](https://docs.tessl.io/)** - Complete documentation and guides
+- **[KIRO](https://kiro.dev/)** - Specification and implementation tools
+- **[spec-kit](https://github.com/github/spec-kit)** - Official GitHub toolkit
+- **[GitHub Spec Kit Guide](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)** - Microsoft Developer Blog
+
+---
+
+## 💡 Related Concepts
+
+Understanding foundational concepts that complement SDD:
+
+- 🎯 **[Bitter Lesson](https://en.wikipedia.org/wiki/Bitter_lesson)** - Wikipedia
+- 🏗️ **[Abstraction First](https://martinfowler.com/articles/structured-prompt-driven/abstraction-first.html)** - Martin Fowler
+
+---
+
+## 💻 GitHub Repos
+
+Implementations and examples of Spec-Driven Development:
+
+- **[open-spdd](https://github.com/gszhangwei/open-spdd/tree/v0.4.9)** (v0.4.9) - Open-source spec-driven development framework
+- **[token-billing](https://github.com/gszhangwei/token-billing)** - Token billing implementation with SDD principles
+
+---
+
+## 💬 Community Discussions
+
+Join the conversation about Spec-Driven Development:
+
+- 🔗 [Hacker News Discussion](https://news.ycombinator.com/item?id=45935763)
+- 🔗 [Reddit: r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rg0b9i/has_anyone_tried_the_spec_driven_development/)
+
+---
+
+## ➕ Extra Resources
+
+Additional guides and practical tutorials:
+
+- 📘 **[A Practical Guide to Spec-Driven Development](https://docs.zencoder.ai/user-guides/tutorials/spec-driven-development-guide#spec-driven-implementation)** - Zencoder
+
+---
+
+<div align="center">
+
+**Happy Learning! 🚀**
+
+*Feel free to contribute additional resources or insights to this collection.*
+
+</div>
 
