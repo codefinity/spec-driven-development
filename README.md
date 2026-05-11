@@ -12,7 +12,7 @@
 - [⚡ Quickstarts](#-quickstarts)
 - [🔍 In-Depth Resources](#-in-depth-resources)
 - [🎓 Courses](#-courses)
-- [🛠️ Tools & Frameworks](#️-tools-frameworks)
+- [🛠️ Tools & Frameworks](#️-tools--frameworks)
 - [📕 Books](#️-books)
 - [💡 Related Concepts](#-related-concepts)
 - [💻 GitHub Repos](#-github-repos)
