@@ -89,7 +89,7 @@ Essential tools and frameworks for implementing SDD:
 - **[GitHub Spec Kit Guide](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)** - Microsoft Developer Blog
 - **[The BMad Method](https://docs.bmad-method.org/)** - The BMad Method (Build More Architect Dreams)
 - **[Agent OS](https://github.com/buildermethods/agent-os)** - Agent OS Github
-- **[Get Shit Done](https://github.com/gsd-build/get-shit-done) - A light-weight meta-prompting, context engineering, and spec-driven development system 
+- **[Get Shit Done](https://github.com/gsd-build/get-shit-done)** - A light-weight meta-prompting, context engineering, and spec-driven development system 
 
 
 
