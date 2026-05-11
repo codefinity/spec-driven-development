@@ -24,6 +24,10 @@ Get started with the fundamentals of Spec-Driven Development:
 - **[Spec-driven development](https://thoughtworks.medium.com/spec-driven-development-d85995a81387)** - ThoughtWorks Medium
 - **[Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)** - GitHub Blog
 
+#### 📺 Videos
+- **[Spec-driven development](https://www.youtube.com/watch?v=iHjlRB93okg)** - Devsplainers
+
+
 ---
 
 ## 🔍 In-Depth Resources
@@ -90,6 +94,16 @@ Join the conversation about Spec-Driven Development:
 Additional guides and practical tutorials:
 
 - 📘 **[A Practical Guide to Spec-Driven Development](https://docs.zencoder.ai/user-guides/tutorials/spec-driven-development-guide#spec-driven-implementation)** - Zencoder
+
+---
+
+## 📖 Glossary
+
+### Spec Drift
+When the actual implementation diverges from the original specification over time. This occurs when code changes are made without updating the corresponding spec, causing inconsistency between the spec and reality.
+
+### Determinism Problem
+When feeding the same specification to an AI model multiple times, you may receive different code outputs each time. This non-deterministic behavior makes it challenging to ensure consistency and reproducibility in spec-driven development workflows with AI-powered code generation.
 
 ---
 
