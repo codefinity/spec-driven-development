@@ -2,11 +2,12 @@
 
 > A curated collection of resources for mastering Spec-Driven Development (SDD) and building better software with specifications and AI-powered tools.
 
----
+
 
 ## 📚 Table of Contents
 
 - [🚀 Introduction](#-introduction)
+- [⚡ Quickstarts](#-quickstarts)
 - [🔍 In-Depth Resources](#-in-depth-resources)
 - [🎓 Courses](#-courses)
 - [🛠️ Tools & Frameworks](#️-tools--frameworks)
@@ -15,7 +16,7 @@
 - [💬 Community Discussions](#-community-discussions)
 - [➕ Extra Resources](#-extra-resources)
 
----
+
 
 ## 🚀 Introduction
 
@@ -28,7 +29,21 @@ Get started with the fundamentals of Spec-Driven Development:
 - **[Spec-driven development](https://www.youtube.com/watch?v=iHjlRB93okg)** - Devsplainers
 
 
----
+
+
+## ⚡ Quickstarts
+
+Get up and running quickly with these hands-on tutorials:
+
+
+#### 📺 Videos
+
+##### 🎬 Net Ninja Tutorials
+
+- **<a href="https://www.youtube.com/watch?v=e_D9M_MJ9Hs" target="_blank">Spec Driven Workflow with Claude Code #1 - Making a /spec Command</a>** - Step-by-step guide to creating a spec command
+- **<a href="https://www.youtube.com/watch?v=JnHUZ8037zE" target="_blank">Spec Driven Workflow with Claude Code #2 - Creating a New Spec</a>** - Learn how to create and structure specs
+
+
 
 ## 🔍 In-Depth Resources
 
@@ -41,7 +56,7 @@ Deep dive into advanced concepts and techniques:
 - **[Claude Code for Spec-Driven Development: Capabilities and Limits](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
 - **[Spec Driven Development with Claude Code: Reduce Approval Overhead & Context Switching with Sub-Agents](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
 
----
+
 
 ## 🎓 Courses
 
@@ -49,7 +64,7 @@ Structured learning paths for hands-on practice:
 
 - 📖 **[Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents)** - DeepLearning.AI
 
----
+
 
 ## 🛠️ Tools & Frameworks
 
@@ -60,7 +75,7 @@ Essential tools and frameworks for implementing SDD:
 - **[spec-kit](https://github.com/github/spec-kit)** - Official GitHub toolkit
 - **[GitHub Spec Kit Guide](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)** - Microsoft Developer Blog
 
----
+
 
 ## 💡 Related Concepts
 
@@ -69,7 +84,7 @@ Understanding foundational concepts that complement SDD:
 - 🎯 **[Bitter Lesson](https://en.wikipedia.org/wiki/Bitter_lesson)** - Wikipedia
 - 🏗️ **[Abstraction First](https://martinfowler.com/articles/structured-prompt-driven/abstraction-first.html)** - Martin Fowler
 
----
+
 
 ## 💻 GitHub Repos
 
@@ -78,7 +93,7 @@ Implementations and examples of Spec-Driven Development:
 - **[open-spdd](https://github.com/gszhangwei/open-spdd/tree/v0.4.9)** (v0.4.9) - Open-source spec-driven development framework
 - **[token-billing](https://github.com/gszhangwei/token-billing)** - Token billing implementation with SDD principles
 
----
+
 
 ## 💬 Community Discussions
 
@@ -87,7 +102,7 @@ Join the conversation about Spec-Driven Development:
 - 🔗 [Hacker News Discussion](https://news.ycombinator.com/item?id=45935763)
 - 🔗 [Reddit: r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rg0b9i/has_anyone_tried_the_spec_driven_development/)
 
----
+
 
 ## ➕ Extra Resources
 
@@ -95,7 +110,7 @@ Additional guides and practical tutorials:
 
 - 📘 **[A Practical Guide to Spec-Driven Development](https://docs.zencoder.ai/user-guides/tutorials/spec-driven-development-guide#spec-driven-implementation)** - Zencoder
 
----
+
 
 ## 📖 Glossary
 
