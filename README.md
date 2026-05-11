@@ -1,5 +1,7 @@
 # 📋 Spec-Driven Development Learning Hub
 
+![Spec-Driven Development](assets/header-image.png)
+
 > A curated collection of resources for mastering Spec-Driven Development (SDD) and building better software with specifications and AI-powered tools.
 
 
@@ -18,6 +20,7 @@
 
 
 
+
 ## 🚀 Introduction
 
 Get started with the fundamentals of Spec-Driven Development:
@@ -27,7 +30,7 @@ Get started with the fundamentals of Spec-Driven Development:
 
 #### 📺 Videos
 - **[Spec-driven development](https://www.youtube.com/watch?v=iHjlRB93okg)** - Devsplainers
-
+- **[Spec-Driven Development in the Real World](https://www.youtube.com/watch?v=3le-v1Pme44)** -Brian Casel
 
 
 
@@ -45,6 +48,7 @@ Get up and running quickly with these hands-on tutorials:
 
 
 
+
 ## 🔍 In-Depth Resources
 
 Deep dive into advanced concepts and techniques:
@@ -55,6 +59,7 @@ Deep dive into advanced concepts and techniques:
 - **[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)** - Martin Fowler
 - **[Claude Code for Spec-Driven Development: Capabilities and Limits](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
 - **[Spec Driven Development with Claude Code: Reduce Approval Overhead & Context Switching with Sub-Agents](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
+- **[Agentic Coding: GSD vs Spec Kit vs OpenSpec vs Taskmaster AI: Where SDD Tools Diverge](https://pub.spillwave.com/agentic-coding-gsd-vs-spec-kit-vs-openspec-vs-taskmaster-ai-where-sdd-tools-diverge-0414dcb97e46)**
 
 
 
@@ -62,8 +67,13 @@ Deep dive into advanced concepts and techniques:
 
 Structured learning paths for hands-on practice:
 
-- 📖 **[Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents)** - DeepLearning.AI
+#### Free
 
+- **[Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents)** - DeepLearning.AI
+
+#### Paid
+
+- **[Claude Code Masterclass](https://netninja.dev/p/claude-code-masterclass)** - Net Ninja
 
 
 ## 🛠️ Tools & Frameworks
@@ -74,6 +84,8 @@ Essential tools and frameworks for implementing SDD:
 - **[KIRO](https://kiro.dev/)** - Specification and implementation tools
 - **[spec-kit](https://github.com/github/spec-kit)** - Official GitHub toolkit
 - **[GitHub Spec Kit Guide](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)** - Microsoft Developer Blog
+- **[The BMad Method](https://docs.bmad-method.org/)** - The BMad Method (Build More Architect Dreams)
+- **[Agent OS](https://github.com/buildermethods/agent-os)** - Agent OS Github
 
 
 
