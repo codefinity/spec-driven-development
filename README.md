@@ -64,7 +64,7 @@ Deep dive into advanced concepts and techniques:
 
 #### 📺 Videos
 - **[
-Spec-driven Development: How AI Changed Everything (And Nothing) by Simon Martinelli @ Spring I/O 26]([https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html](https://www.youtube.com/watch?v=35dH6q18UtI))** - Simon Martinelli
+Spec-driven Development: How AI Changed Everything (And Nothing) by Simon Martinelli @ Spring I/O 26]([https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html](https://www.youtube.com/watch?v=35dH6q18UtI)** - Simon Martinelli
 
 
 ## 🎓 Courses
