@@ -1,6 +1,6 @@
 ![Spec-Driven Development](assets/header-image.png)
 
-# 📋 Spec-Driven Development (SDD) Learning Hub
+<!-- # 📋 Spec-Driven Development (SDD) Learning Hub -->
 
 > A curated collection of resources for mastering Spec-Driven Development (SDD) and building better software with specifications and AI-powered tools.
 
