@@ -19,10 +19,7 @@
 
 ## 🚀 Introduction
 
-Get started with the fundamentals of Spec-Driven Development:
-
-- **[Spec-driven development](https://thoughtworks.medium.com/spec-driven-development-d85995a81387)** - ThoughtWorks Medium
-- **[Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)** - GitHub Blog
+- **<a href="https://thoughtworks.medium.com/spec-driven-development-d85995a81387" target="_blank">Spec-driven development</a>** - ThoughtWorks Medium
 
 ---
 
