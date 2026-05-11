@@ -17,6 +17,7 @@
 - [💻 GitHub Repos](#-github-repos)
 - [💬 Community Discussions](#-community-discussions)
 - [➕ Extra Resources](#-extra-resources)
+- [📖 Glossary](#-glossary)
 
 
 
