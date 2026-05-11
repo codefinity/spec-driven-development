@@ -91,6 +91,9 @@ Essential tools and frameworks for implementing SDD:
 - **[Agent OS](https://github.com/buildermethods/agent-os)** - Agent OS Github
 - **[Get Shit Done](https://github.com/gsd-build/get-shit-done)** - A light-weight meta-prompting, context engineering, and spec-driven development system 
 
+## Books
+
+- **[Al-Native Software Engineering](https://learning.oreilly.com/library/view/ai-native-software-engineering/0642572352530/)** - Alfonso Graziano
 
 
 ## 💡 Related Concepts
