@@ -135,6 +135,9 @@ When the actual implementation diverges from the original specification over tim
 ### Determinism Problem
 When feeding the same specification to an AI model multiple times, you may receive different code outputs each time. This non-deterministic behavior makes it challenging to ensure consistency and reproducibility in spec-driven development workflows with AI-powered code generation.
 
+### Context Rot
+Context rot is the phenomenon where a large language model's performance degrades as its input context grows longer, even when the relevant information is technically present in the context window. The longer the context an LLM is working with, the less accurate it becomes — the information isn't wrong or missing, the model just pays less attention to it.
+
 ---
 
 <div align="center">
