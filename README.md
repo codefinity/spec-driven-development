@@ -40,8 +40,8 @@ Get up and running quickly with these hands-on tutorials:
 
 ##### 🎬 Net Ninja Tutorials
 
-- **<a href="https://www.youtube.com/watch?v=e_D9M_MJ9Hs" target="_blank">Spec Driven Workflow with Claude Code #1 - Making a /spec Command</a>** - Step-by-step guide to creating a spec command
-- **<a href="https://www.youtube.com/watch?v=JnHUZ8037zE" target="_blank">Spec Driven Workflow with Claude Code #2 - Creating a New Spec</a>** - Learn how to create and structure specs
+- **[Spec Driven Workflow with Claude Code #1 - Making a /spec Command](https://www.youtube.com/watch?v=e_D9M_MJ9Hs)** - Step-by-step guide to creating a spec command
+- **[Spec Driven Workflow with Claude Code #2 - Creating a New Spec](https://www.youtube.com/watch?v=JnHUZ8037zE)** - Learn how to create and structure specs
 
 
 
