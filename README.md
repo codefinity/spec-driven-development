@@ -121,6 +121,7 @@ Join the conversation about Spec-Driven Development:
 
 - 🔗 [Hacker News Discussion](https://news.ycombinator.com/item?id=45935763)
 - 🔗 [Reddit: r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rg0b9i/has_anyone_tried_the_spec_driven_development/)
+- 🔗 [r/SpecDrivenDevelopment ](https://www.reddit.com/r/SpecDrivenDevelopment/) - Reddit Community
 
 
 
