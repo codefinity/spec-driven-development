@@ -62,6 +62,7 @@ Deep dive into advanced concepts and techniques:
 - **[Claude Code for Spec-Driven Development: Capabilities and Limits](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
 - **[Spec Driven Development with Claude Code: Reduce Approval Overhead & Context Switching with Sub-Agents](https://www.augmentcode.com/guides/claude-code-spec-driven-development)** - AugmentCode
 - **[Agentic Coding: GSD vs Spec Kit vs OpenSpec vs Taskmaster AI: Where SDD Tools Diverge](https://pub.spillwave.com/agentic-coding-gsd-vs-spec-kit-vs-openspec-vs-taskmaster-ai-where-sdd-tools-diverge-0414dcb97e46)**
+- **[Comparing 15 Spec-Driven Development Frameworks, Artifacts, and Decision Paths— SDD](https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-sdd-c052df529274)** - Jarosław Wasowski
 
 #### 📺 Videos
 - **[Spec-driven Development: How AI Changed Everything (And Nothing) by Simon Martinelli @ Spring I/O 26](https://www.youtube.com/watch?v=35dH6q18UtI)** - Simon Martinelli
